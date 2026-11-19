@@ -1,6 +1,6 @@
 cask "tannlaus" do
-  version "1.1.0"
-  sha256 "dede4f90ba37d3b88db8ffbe95fc5f0ad9b3c7a13060774cd3506ac6889128b2"
+  version "1.1.1"
+  sha256 "515cda7fd731b2ef6b71e7207712923f88ef3654405ecdd64ac280a678153f3b"
 
   url "https://github.com/mmalvik/tannlaus/releases/download/v#{version}/Tannlaus-#{version}.zip"
   name "Tannlaus"
